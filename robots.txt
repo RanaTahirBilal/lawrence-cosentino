@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranatahirbilal.github.io/lawrence-cosentino/sitemap.xml
